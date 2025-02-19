@@ -1,8 +1,8 @@
 // Exercise 7 part 1-2
 Class Logger {
     constructor(Referrer, id) {
-        this.referrer = referre
-        this.id = id
+        this.referrer = referrer;
+        this.id = id;
     }
 
     log = (value) => {
